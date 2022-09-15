@@ -27,7 +27,7 @@ global.botname = 'D2V' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'D2V' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283162498175','6288218525085']
+global.owner = ['6288218525085']
 global.premium = ['6283162498175']
 global.packname = 'D2V Chan'
 global.ownerr = ['66XZD']
