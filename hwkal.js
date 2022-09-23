@@ -13,26 +13,27 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6285714170944'
-global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.youtube = 'https://youtube.com/'
+global.ig = 'https://www.instagram.com/lebihkerendariandy_warholl.id'
+global.mygc = 'wa.me/6285693650294'
+global.myweb = 'https://s.id/WahyudiID'
+global.linkgrupss = "#"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'kenz.hm.421@gmail.com'
+global.email = 'wahyudi.my.id@gmail.com'
+
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'D2V' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'D2V' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'D2V' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'AKATSUKI' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'AKATSUKI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'AKATSUKI' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288218525085']
-global.premium = ['6283162498175']
-global.packname = 'D2V Chan'
-global.ownerr = ['66XZD']
-global.author = 'D2V'
-global.sessionName = './sessionye/haikal'
+global.owner = ['6285693650294']
+global.premium = ['6285693650294']
+global.packname = 'AKATSUKI'
+global.ownerr = ['ITACHI']
+global.author = 'ITACHI'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
